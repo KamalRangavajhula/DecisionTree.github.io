@@ -1,2 +1,1 @@
-# DecisionTree.github.io
-Decision Tree classification using Python
+# DecisionTree and RandomForest Classification
